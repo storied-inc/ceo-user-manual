@@ -6,7 +6,7 @@ If you're starting cold, in a tool with no history of you, use the interview ver
 
 ---
 
-I'm building a CEO User Manual: a structured document that makes explicit how I think, decide, and communicate, so the people who work with me and the AI acting on my behalf can operate with me rather than around me. It installs in two places, my team and my AI, and it has to work in both.
+I'm building a CEO User Manual: a structured document that makes explicit how I think, decide, and communicate, so the people who work with me and the AI agents acting on my behalf can operate with me rather than around me. It installs in two places, my team and my AI agents, and it has to work in both.
 
 Draft V1 from everything you know about me: how I think, how I work, how I decide, how I define and measure success. Cover principles and preferences both, and say which is which, because most teams can't tell the difference and treat both as immovable.
 

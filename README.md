@@ -1,6 +1,6 @@
 # CEO User Manual
 
-**One document that makes explicit how you think, decide, and communicate, so your team and your AI can operate with you instead of around you.**
+**One document that makes explicit how you think, decide, and communicate, so your team and your AI agents can operate with you instead of around you.**
 
 Thirty minutes to a first version. Then it works every day, in every meeting you're not in and every draft you didn't write.
 
@@ -18,9 +18,9 @@ The people closest to you have a decent version. Everyone else has a sketch. Eve
 
 That was always expensive. Now there's a second reader.
 
-**Your team figures it out by watching you. Your AI has never watched you work.**
+**Your team figures it out by watching you. Your AI agents have never watched you work.**
 
-Whether you're using it to draft an email today or running agents that decide on your behalf tomorrow, none of it was learned by observation. It starts from a generic composite of what a leader sounds like, and it keeps starting there until you write yours down.
+Whether you're drafting an email with one today or running a fleet of them that decides on your behalf tomorrow, none of it was learned by observation. Each one starts from a generic composite of what a leader sounds like, and it keeps starting there until you write yours down.
 
 ## What changes
 
@@ -28,7 +28,7 @@ One document, two installs, and the return is different in each.
 
 **Your team stops guessing.** Your thinking travels without you, so decisions get made at your standard in the meetings you're not in. New people start with a map instead of six months of trial and error. The judgment calls you'd make come back made, rather than escalated.
 
-**Your AI inherits your operating system.** Every agent drafting, prioritizing, or deciding on your behalf runs on your principles rather than the internet's idea of a leader. Michael handed his manual to his team, then fed it to Claude. His account of what changed: drafts that reflected his actual principles, communication carrying his style, priorities matching how he operates rather than a generic pattern. The same shift he'd seen in the team, arriving faster.
+**Your AI agents inherit your operating system.** Every agent drafting, prioritizing, or deciding on your behalf runs on your principles rather than the internet's idea of a leader, and they run on them in parallel, which is how one document turns into distributed scale. Michael handed his manual to his team, then fed it to Claude. His account of what changed: drafts that reflected his actual principles, communication carrying his style, priorities matching how he operates rather than a generic pattern. The same shift he'd seen in the team, arriving faster.
 
 That second install is why this matters more now than it did three years ago.
 
@@ -36,7 +36,7 @@ That second install is why this matters more now than it did three years ago.
 
 Read the title as a role, not a rank. If people wait on your decisions, this is for you.
 
-Founder, chief executive, entrepreneur, operator, or any executive who leads a team. You don't have to run the company. If people take direction from you, borrow your conviction when you're not there, or point AI at work on your behalf, the document does the same job.
+Founder, chief executive, entrepreneur, operator, or any executive who leads a team. You don't have to run the company. If people take direction from you, borrow your conviction when you're not there, or point AI agents at work on your behalf, the document does the same job.
 
 The larger return isn't your manual reaching everyone. It's each leader who reports to you writing their own, for the team that reports to them.
 
@@ -56,7 +56,7 @@ So every section of the template carries the same question. When did this last h
 |---|---|
 | The stake | **Operate with you, not around you** |
 | The architecture | **The universal layer and the personal layer** |
-| The named defect | **A leader who doesn't exist.** What your AI becomes when the manual is aspirational |
+| The named defect | **A leader who doesn't exist.** What your AI agents become when the manual is aspirational |
 | The test | **The recognition test.** One colleague reads it and says "that's exactly right," or tells you where it's wrong |
 
 Two layers, and a good manual needs both. The **universal layer** is how you think and decide, and it upgrades anyone who reads it regardless of context. The **personal layer** is you: your voice, your quirks, the specific triggers, the five to seven things you learned the hard way. Without it the document reads as a leadership template with your name on top. With it, people read it and think, that's so you, I knew it but nobody had said it.
@@ -93,13 +93,23 @@ Use his for structure and depth. The exercise is the articulation, and that's wh
 
 ## Why this exists
 
-Adam Bryant put this idea in circulation in the New York Times Corner Office column in 2013, profiling a chief executive who had written a user manual for himself. Claire Hughes Johnson carried the practice into Stripe and into *Scaling People*, which includes her own "Working with Claire" document. Engineering culture built its own branch, the manager README, complete with templates and generators. Plenty of good versions exist and you should read them.
+Adam Bryant put this idea in circulation in the New York Times Corner Office column in 2013, profiling a chief executive who had written a user manual for himself. Julie Zhuo, then VP of Product Design at Facebook and the author of *The Making of a Manager*, published her own user guide along with a template anyone could take, which is where most product and design leaders first met the practice. Her sections are close cousins of the spine in this repo: how she views success, how she communicates, what gains and loses her trust, the things she does that annoy people, her growth areas. Claire Hughes Johnson carried the practice into Stripe and into *Scaling People*, which includes her own "Working with Claire" document. Engineering culture built its own branch, the manager README, complete with templates and generators. Plenty of good versions exist and you should read them.
 
 What nobody has staked is the mechanism underneath. Not another manual, but why one of these documents is true rather than merely flattering, and what happens to an untrue one when it gets installed in a system that can't correct for it. That's the layer this repo adds: the two-layer architecture, the evidence question in every section, and the install path into the AI that now reads it alongside your team.
 
-Storied builds narrative operating systems, meaning the language a company runs on, treated as infrastructure rather than decoration. This is one layer of one, published whole. Language is the new code base, and how you think is the first thing worth writing in it.
+Language is the new code base, and how you think is the first thing worth writing in it.
 
 When your manual is done, send it to Michael. He reads every reply.
+
+## Storied AI
+
+The CEO User Manual is one skill, published in full. It comes from a library.
+
+**Storied AI™** puts Narrative Intelligence® skills inside Claude and ChatGPT, callable in the flow of work through our MCP server. Positioning. Messaging. Narrative. Sales narrative. Investor pitch. Keynote. Business case. Strategy documents. Website copy. Media interview prep. The language a company runs on, treated as infrastructure rather than decoration.
+
+Private beta. [**storiedinc.com/storied-ai**](https://www.storiedinc.com/storied-ai)
+
+This one is published whole because it's the clearest demonstration of the method. Everything the library does to a company's language, this document does to one person's thinking: makes it explicit, makes it portable, and makes it installable in the systems now doing the work.
 
 ## License
 
@@ -109,4 +119,4 @@ When your manual is done, send it to Michael. He reads every reply.
 
 *Michael Margolis · [Storied](https://storiedinc.com)*
 
-© 2026 Get Storied, Inc. Storied® is a registered mark and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.
+CEO User Manual v1.0 © 2026 Get Storied, Inc. Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.

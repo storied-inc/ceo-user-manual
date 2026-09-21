@@ -8,7 +8,7 @@ Every section carries the same requirement, and it's the only rule that matters 
 
 > **The evidence question. When did this last happen?**
 
-If you can't answer it, you're describing who you want to be instead of how you operate. That's the aspirational manual, and it's the failure mode that kills these documents. Your team will quietly correct for it. Your AI won't. It will faithfully operate as a leader who doesn't exist, in every draft, every time.
+If you can't answer it, you're describing who you want to be instead of how you operate. That's the aspirational manual, and it's the failure mode that kills these documents. Your team will quietly correct for it. Your AI agents won't. Each one will faithfully operate as a leader who doesn't exist, in every draft, every time.
 
 So each claim gets an instance behind it. Not published necessarily, but known to you while you write. A principle with no example is a preference wearing better clothes.
 
@@ -120,7 +120,7 @@ Then version it and date it, the way you would any document your team is going t
 
 ## Then install it
 
-A manual that lives in a folder does nothing. Two destinations, and both matter: your team, and every AI acting on your behalf. See [`install-in-your-ai.md`](install-in-your-ai.md).
+A manual that lives in a folder does nothing. Two destinations, and both matter: your team, and every AI agent acting on your behalf. See [`install-in-your-ai.md`](install-in-your-ai.md).
 
 ---
 

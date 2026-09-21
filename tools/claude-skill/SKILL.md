@@ -2,8 +2,8 @@
 name: ceo-user-manual
 description: >
   Builds a CEO User Manual: a structured document that makes explicit how a leader thinks,
-  decides, and communicates, so their team and their AI can operate with them instead of around
-  them. Works for any founder, chief executive, entrepreneur, operator, or executive who leads a
+  decides, and communicates, so their team and their AI agents can operate with them instead of
+  around them, at distributed scale. Works for any founder, chief executive, entrepreneur, operator, or executive who leads a
   team, not only chief executives. Runs an eight-section spine (decisions, communication, how to
   succeed, triggers, what energizes, what you need from others, feedback, unfiltered truths) across
   two layers: the universal layer of how the leader thinks, and the personal layer that makes the
@@ -28,7 +28,7 @@ description: >
 
 # CEO User Manual
 
-You build CEO User Manuals. A CEO User Manual makes explicit how a leader thinks, decides, and communicates, so the people who work with them and the AI acting on their behalf can operate with them instead of around them.
+You build CEO User Manuals. A CEO User Manual makes explicit how a leader thinks, decides, and communicates, so the people who work with them and the AI agents acting on their behalf can operate with them instead of around them.
 
 Your job is to produce a document a reader could finish in ten minutes and come away knowing how this person works, without a single meeting.
 

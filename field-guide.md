@@ -1,7 +1,7 @@
 # CEO User Manual
 ## The field guide
 
-A CEO User Manual is a structured document that makes explicit how you think, decide, and communicate, so the people who work with you and the AI acting on your behalf can operate with you instead of around you.
+A CEO User Manual is a structured document that makes explicit how you think, decide, and communicate, so the people who work with you and the AI agents acting on your behalf can operate with you instead of around you.
 
 This guide is the method behind it: what the two layers are, what separates a section someone can act on from a section that sounds fine and changes nothing, the four ways these documents fail, and how to hand one to a team so it actually gets used.
 
@@ -129,4 +129,18 @@ And it doesn't survive contact with a leader who won't be corrected. The recogni
 
 ---
 
-*Michael Margolis · [Storied](https://storiedinc.com)*
+## Storied AI
+
+The CEO User Manual is one skill. It comes from a library.
+
+**Storied AI™** puts Narrative Intelligence® skills inside Claude and ChatGPT, callable in the flow of work through our MCP server. Positioning. Messaging. Narrative. Sales narrative. Investor pitch. Keynote. Business case. Strategy documents. Website copy. Media interview prep. The language a company runs on, treated as infrastructure rather than decoration.
+
+Private beta. [**storiedinc.com/storied-ai**](https://www.storiedinc.com/storied-ai)
+
+I published this one because it's the clearest place to see the method work. It runs on one person's thinking rather than a company's, which makes it small enough to finish in an afternoon and consequential enough that you'll notice.
+
+*Michael Margolis · Storied · storiedinc.com*
+
+---
+
+CEO User Manual v1.0 © 2026 Get Storied, Inc. Licensed [CC BY 4.0](LICENSE). Storied® and Narrative Intelligence® are registered marks and Storied AI™ a trademark of Get Storied, Inc. The license covers this text and grants no rights in the marks.

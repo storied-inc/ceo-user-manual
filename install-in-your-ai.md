@@ -1,8 +1,8 @@
-# Install It in Your AI
+# Install It in Your AI Agents
 
 ## Memory, not an attachment
 
-A manual you paste into one conversation helps that conversation. A manual your AI holds helps every one after it. The difference is where you put the file, and it takes about five minutes.
+A manual you paste into one conversation helps that conversation. A manual your AI agents hold helps every one after it, across every agent you run. The difference is where you put the file, and it takes about five minutes.
 
 This is the half most people skip, and it's the half that compounds.
 
@@ -12,7 +12,7 @@ This is the half most people skip, and it's the half that compounds.
 
 Your team corrects for an inaccurate manual. Quietly, and over time, but they do it. Someone reads "bring me the recommendation, not the problem," watches you interrupt three recommendations in a row to ask for the raw data, and updates their private model of you without ever saying so.
 
-Your AI won't do that. It has no private model to update. It reads what you wrote, takes it as fact, and operates as that leader in every draft it produces. Write that you want brevity when you actually want the reasoning shown, and you'll get clipped summaries forever, each one technically compliant with a document you wrote about someone you aren't.
+Your AI agents won't do that. They have no private model to update. Each one reads what you wrote, takes it as fact, and operates as that leader in every draft it produces. Write that you want brevity when you actually want the reasoning shown, and you'll get clipped summaries forever, each one technically compliant with a document you wrote about someone you aren't.
 
 So the aspirational manual is survivable in a team and corrosive in a model. Run the aspiration sweep in [`template.md`](template.md) before you install, not after.
 
