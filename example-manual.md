@@ -15,7 +15,7 @@ Read it for structure and for how specific the specifics get. Then close it and 
 # User Guide: Michael Margolis
 ## How to Work with Me Effectively
 
-**V2.2, September 2026**
+**V2.3, October 2026**
 
 ---
 
@@ -117,7 +117,7 @@ I will respond with: *"What do you recommend and why?"*
 
 You do not need perfect answers. You need structured thinking. Structured thinking beats speed without reasoning. Develop the muscle of thinking before escalating.
 
-**Before escalating, confirm you have:**
+**Before escalating, ask yourself:**
 - Have I defined the objective?
 - Have I generated options?
 - Have I named tradeoffs?
@@ -204,7 +204,7 @@ Be direct. Be concise. Be structured. Do not bury the lede. If a decision requir
 
 **Do's:**
 - Provide clear framing
-- Don't assume I live in your context and detail
+- Assume I don't live in your context and detail
 - Show your work: the Storied AI run, a screenshot, the transcript
 - Be clear on next indicated actions, by whom, by when
 - Provide links to relevant docs for the flow of work
@@ -214,12 +214,14 @@ Be direct. Be concise. Be structured. Do not bury the lede. If a decision requir
 
 | Channel | Use Cases |
 |---|---|
-| **Slack** | Quick clarifications, timely reminders, fast loops, daily recaps, weekly updates (with links to Monday) |
-| **Monday** | Tasks, workstreams, decisions, projects, weekly updates (detail) |
+| **Slack** | Quick clarifications, fast loops, client channels, the Friday end-of-week report and the Tuesday State of the Union |
+| **Monday** | Our single source of truth: projects, responsibilities, owners, status, decisions, and the CRM |
+| **Linear** | The Storied AI product backlog: bugs, feature requests, and what ships this week |
+| **GitHub** | Our operating system: voice, methods, and skills, version-controlled in the Storied repos |
 | **Email** | External correspondence, visibility loops, formal communication |
 | **Notion** | Client Portals, SOPs |
 | **Google Apps** | Always use a Storied template (Google Doc, Sheets, or Slides) |
-| **Claude** | Our primary AI stack. Always work inside the Storied team workspace for data privacy. Use Storied AI for client work |
+| **Claude** | Our primary AI stack. Work in Cowork or Claude Code inside the Storied team workspace, wired to the Storied repos. Use Storied AI for client work |
 | **ChatGPT** | Secondary. Storied team account only, and never client material outside the Storied stack |
 
 **Weekly status updates are required.** A good update includes:
@@ -249,7 +251,7 @@ You are here to grow.
 - If something feels unclear, ask for clarification
 - If you disagree with me, articulate your reasoning clearly
 - Disagreement with structure is welcomed
-- Emotional reactions are natural. Translate them into structured feedback.
+- Emotional reactions are natural. Translate them into structured feedback
 
 ---
 
@@ -285,9 +287,9 @@ You are here to grow.
 - Create new forms of value and impact that didn't exist before
 
 **How to advance:**
-- If you want more autonomy: Demonstrate reliability.
-- If you want more influence: Demonstrate judgment.
-- If you want more responsibility: Demonstrate leverage.
+- If you want more autonomy: Demonstrate reliability
+- If you want more influence: Demonstrate judgment
+- If you want more responsibility: Demonstrate leverage
 
 ---
 
@@ -296,8 +298,8 @@ You are here to grow.
 **Workability:**
 - We always focus on what's working / what's not working (+1 and delta)
 - If something is not working, what do we need to do to get things to work?
-- We do not debate identity or intention. We focus on behavior and outcomes.
-- Workability is never a moral judgement or personal attack on anyone.
+- We do not debate identity or intention. We focus on behavior and outcomes
+- Workability is never a moral judgement or personal attack on anyone
 - Workability is not about who is right/wrong, good/bad, etc.
 - Workability is based on shared agreement about what produces results
 - What might work for other people, other workplaces, might not work here
