@@ -2,7 +2,7 @@
 
 **One document that makes explicit how you think, decide, and communicate, so your team and your AI agents can operate with you instead of around you.**
 
-Thirty minutes to a first version. Then it works every day, in every meeting you're not in and every draft you didn't write.
+Fifteen minutes to a first version. Then it works every day, in every meeting you're not in and every draft you didn't write.
 
 ---
 
@@ -76,7 +76,7 @@ Two layers, and a good manual needs both. The **universal layer** is how you thi
 ## Start here
 
 1. Open [`template.md`](template.md) and read the eight sections. Two minutes.
-2. Paste [`tools/paste-prompt.md`](tools/paste-prompt.md) into whichever AI already knows something about how you work. You'll get a V1 and five questions. Thirty minutes.
+2. Paste [`tools/paste-prompt.md`](tools/paste-prompt.md) into whichever AI already knows something about how you work. You'll get a V1 and five questions. Fifteen minutes.
 3. Run the recognition test. One person who works closely with you, one question: does this match your experience of me? Don't defend it while they answer.
 4. Install it. [`install-in-your-ai.md`](install-in-your-ai.md), four surfaces, five minutes.
 5. Then send it to your team, and ask each of your leaders to write theirs.
