@@ -15,13 +15,13 @@ Read it for structure and for how specific the specifics get. Then close it and 
 # User Guide: Michael Margolis
 ## How to Work with Me Effectively
 
-**V2.3, October 2026**
+**V2.4, October 2026**
 
 ---
 
 ## Introduction
 
-This document defines how to succeed here at Storied. The purpose is to remove ambiguity and strengthen alignment.
+I wrote this to help build a strong partnership with you. Treat it as an invitation, and help me understand how you think and what you value in return.
 
 **It defines:**
 - How I think
@@ -31,11 +31,11 @@ This document defines how to succeed here at Storied. The purpose is to remove a
 - How we repair breakdowns
 - What high-performance looks like at Storied
 
-This is not a personality profile. It is a working agreement.
+This isn't a personality profile. It's a working agreement.
 
 At Storied, we treat narrative as infrastructure. That means we help leaders and organizations think clearly, decide coherently, and move with conviction. Our work only functions if internally we model the same clarity and coherence we deliver externally.
 
-Velocity, friction reduction, and coherence are not slogans. They are decision filters and operating standards.
+Velocity, friction reduction, and coherence aren't slogans. They're decision filters and operating standards.
 
 If something increases velocity and coherence, it stays. If something increases friction, we fix it.
 
@@ -43,7 +43,9 @@ If something increases velocity and coherence, it stays. If something increases 
 
 ## I. How I Define Success
 
-Success at Storied is not effort. It is about creating leverage.
+We're building a cathedral at Storied, to far outlast anyone's lifetime.
+
+Success at Storied isn't effort. It's about creating leverage.
 
 **Leverage means:**
 - Documented, repeatable systems
@@ -68,15 +70,15 @@ Success at Storied is not effort. It is about creating leverage.
 
 ## II. Ownership & Radical Responsibility
 
-Ownership does not mean perfection.
+Ownership doesn't mean perfection.
 
 **Ownership means:**
 - You proactively propose solutions
 - You ask for clarification before proceeding blindly
 - You flag unrealistic timelines and surface risks early
-- You do not disappear when something gets hard
+- You don't disappear when something gets hard
 
-If something breaks and you raise it early with options, that is high performance. If something breaks in your lane and I discover it late, that is a failure of ownership.
+If something breaks and you raise it early with options, that's high performance. If something breaks in your lane and I discover it late, that's a failure of ownership.
 
 **What ownership looks like in practice:**
 - Restate next indicated action after meetings
@@ -85,7 +87,7 @@ If something breaks and you raise it early with options, that is high performanc
 - Update systems of record without prompting
 - Document lessons from mistakes
 
-**You are responsible for:**
+**You're responsible for:**
 - The clarity of your work
 - The communication around your work
 - The quality of your work
@@ -93,29 +95,29 @@ If something breaks and you raise it early with options, that is high performanc
 - The improvement of your systems
 
 **Radical responsibility means:**
-- Do not wait to be asked twice
-- Do not assume others see what you see
-- Do not wait to be rescued
+- Don't wait to be asked twice
+- Don't assume others see what you see
+- Don't wait to be rescued
 
-Own your experience. I have a low tolerance for repeated excuses without system improvement. Communicate what you need and will do to bring things into alignment. Improve the system and guardrails so the same failure does not repeat. Things happen. Deadlines move. Priorities change. Mistakes occur. What matters is taking ownership. If a shared commitment is at risk, I want to know early, not at the last minute and never through silence. Bring context. Name the risk. Recommit with a revised expectation. Show what process or guardrail will improve performance forward. If you do that, I tend to offer grace.
+Own your experience. I have a low tolerance for repeated excuses without system improvement. Communicate what you need and will do to bring things into alignment. Improve the system and guardrails so the same failure doesn't repeat. Things happen. Deadlines move. Priorities change. Mistakes occur. What matters is taking ownership. If a shared commitment is at risk, I want to know early, not at the last minute and never through silence. Bring context. Name the risk. Recommit with a revised expectation. Show what process or guardrail will improve performance forward. If you do that, you'll find grace here.
 
 ---
 
 ## III. How To Manage Up
 
-Experience level is not the determining factor. Quality of thinking, diligence, and reliability are.
+Experience level isn't the determining factor. Quality of thinking, diligence, and reliability are.
 
 **Managing up means:**
 - Context first: give big picture before details
-- Recommendation always: do not bring problems alone
+- Recommendation always: don't bring problems alone
 - Tradeoffs named: what are we choosing and sacrificing
 - Clarity of ask: what decision do you need from me
 - Reference "Smart Brevity" as a way to right-size level of detail/context
 
 If you come to me with: *"I'm not sure what to do."*
-I will respond with: *"What do you recommend and why?"*
+I'll respond with: *"What do you recommend and why?"*
 
-You do not need perfect answers. You need structured thinking. Structured thinking beats speed without reasoning. Develop the muscle of thinking before escalating.
+You don't need perfect answers. You need structured thinking. Structured thinking beats speed without reasoning. Develop the muscle of thinking before escalating.
 
 **Before escalating, ask yourself:**
 - Have I defined the objective?
@@ -137,15 +139,15 @@ I think in first principles. That means I care about:
 - Structural tradeoffs
 - Long-term consequences
 
-I am both idealistic and pragmatic. I care about principles, meaning, and coherence. I also care about urgency, disciplined execution, and follow-through.
+I'm both idealistic and pragmatic. I care about principles, meaning, and coherence. I also care about urgency, disciplined execution, and follow-through.
 
-My thinking is highly non-linear. That is one of my strengths. I often see patterns, implications, and strategic leaps quickly. It also means I can get ahead of the linear sequence and fail to bring everyone else with me. If my leap is not obvious, slow me down and ask me to connect the dots.
+My thinking is highly non-linear. That's one of my strengths. I often see patterns, implications, and strategic leaps quickly. It also means I can get ahead of the linear sequence and fail to bring everyone else with me. If my leap isn't obvious, slow me down and ask me to connect the dots.
 
-I move fast once I have clarity. This can feel abrupt if you are still forming your thinking. If you feel rushed, ask for time to process. Do not freeze silently.
+I move fast once I have clarity. This can feel abrupt if you're still forming your thinking. If you feel rushed, ask for time to process. Don't freeze silently.
 
-I think out loud frequently. Thinking out loud is exploration, not instruction. Before executing on something I say, confirm: Is this a directive or an idea? Do not assume every idea equals a priority shift.
+I think out loud frequently. Thinking out loud is exploration, not instruction. Before executing on something I say, confirm: Is this a directive or an idea? Don't assume every idea equals a priority shift.
 
-I tend to have a point of view even in ambiguous situations. Strong opinions, loosely held. Do not mistake conviction for rigidity. I value people who can bring reasoning, alternatives, and evidence that improves the outcome.
+I tend to have a point of view even in ambiguous situations. Strong opinions, loosely held. Don't mistake conviction for rigidity. I value people who can bring reasoning, alternatives, and evidence that improves the outcome.
 
 When in doubt, I always zoom out.
 
@@ -174,17 +176,17 @@ When in doubt, I always zoom out.
 - Bring me high-leverage decisions
 - Own the rest
 
-One of the highest-leverage ways to support me is to build the linear workflows, sequencing, and process scaffolding that my brain does not naturally generate on its own. I am technologically savvy, but mechanically inept. If you can translate complexity into clean sequence, operating rhythm, and repeatable process, that creates disproportionate value.
+One of the highest-leverage ways to support me is to build the linear workflows, sequencing, and process scaffolding that my brain doesn't naturally generate on its own. I'm technologically savvy, but mechanically inept. If you can translate complexity into clean sequence, operating rhythm, and repeatable process, that creates disproportionate value.
 
 ---
 
 ## VI. What Frustrates Me And Why
 
-These are not emotional triggers. They are friction signals.
+These are friction signals.
 
 | Frustration | Reason |
 |---|---|
-| Lack of context | I cannot make clean decisions without framing |
+| Lack of context | I can't make clean decisions without framing |
 | Lack of follow-through | Erodes trust in reliability |
 | Escalation without thinking | Increases my cognitive load unnecessarily |
 | Lack of attention to detail | I must proofread and micro-edit, instead of refine |
@@ -200,7 +202,7 @@ If you see these forming, address them before I have to.
 
 ## VII. Communication Standards
 
-Be direct. Be concise. Be structured. Do not bury the lede. If a decision requires more than brief clarification, document it in Monday.
+Be direct. Be concise. Be structured. Don't bury the lede. If a decision requires more than brief clarification, document it in Monday.
 
 **Do's:**
 - Provide clear framing
@@ -237,7 +239,7 @@ Silence is not acceptable communication. If timelines slip, communicate before t
 
 ## VIII. Feedback and Growth
 
-You are here to grow.
+You're here to grow. I want to know your career goals. How can I help you realize them?
 
 **Growth means:**
 - You receive feedback without defensiveness
@@ -246,7 +248,7 @@ You are here to grow.
 - You improve systems you touch
 
 **I give direct feedback:**
-- It is about workability, not your worth
+- It's about workability, not your worth
 - Separate signal from tone: If you feel defensive, pause before responding
 - If something feels unclear, ask for clarification
 - If you disagree with me, articulate your reasoning clearly
@@ -293,14 +295,14 @@ You are here to grow.
 
 ---
 
-## X. What To Do When Something is Not Working
+## X. What To Do When Something Isn't Working
 
 **Workability:**
 - We always focus on what's working / what's not working (+1 and delta)
-- If something is not working, what do we need to do to get things to work?
-- We do not debate identity or intention. We focus on behavior and outcomes
+- If something isn't working, what do we need to do to get things to work?
+- We don't debate identity or intention. We focus on behavior and outcomes
 - Workability is never a moral judgement or personal attack on anyone
-- Workability is not about who is right/wrong, good/bad, etc.
+- Workability isn't about who is right/wrong, good/bad, etc.
 - Workability is based on shared agreement about what produces results
 - What might work for other people, other workplaces, might not work here
 - Workability is how we maintain integrity / wholeness / alignment
@@ -311,27 +313,27 @@ You are here to grow.
 - Describe it clearly
 - Propose a solution
 
-**Do not:**
+**Don't:**
 - Withdraw / Go dark
 - Gossip or make assumptions
 - Accumulate silent resentment
 - Wait for it to explode
 
-Integrity equals workability. We focus on what's working and not working. If something in the system is not working, we improve the system.
+Integrity equals workability. We focus on what's working and not working. If something in the system isn't working, we improve the system.
 
 ---
 
 ## XI. Boundaries and Professionalism
 
-We are professional adults that communicate professionally. Professionalism includes punctuality, prepared meetings, and written follow-through.
+We're professional adults. Professionalism includes punctuality, prepared meetings, and written follow-through.
 
-**You are responsible for:**
+**You're responsible for:**
 - Your time
 - Your energy
 - Your growth
 - Your standards
 
-If alignment changes: Raise it directly. If expectations feel unrealistic: Surface it early. If you are overwhelmed: Signal before you break or burnout.
+If alignment changes: Raise it directly. If expectations feel unrealistic: Surface it early. If you're overwhelmed: Signal before you break or burnout.
 
 ---
 
@@ -345,8 +347,10 @@ The payoff of this environment is real, meaningful work and a platform for caree
 - Emotional maturity
 - Intellectual rigor
 
-This environment rewards responsibility faster than tenure. Experience level is not the determining factor. Quality of thinking and reliability are.
+This environment rewards responsibility faster than tenure. Experience level isn't the determining factor. Quality of thinking and reliability are.
 
-If something is unclear, clarify it. If something is broken, repair it. If something is slow, streamline it. Increase velocity. Reduce friction. Strengthen coherence. There is no limit to what is possible here.
+If something is unclear, clarify it. If something is broken, repair it. If something is slow, streamline it. Increase velocity. Reduce friction. Strengthen coherence. There's no limit to what's possible here.
 
-*This guide is living. If it becomes misaligned with reality, we update it.*
+If we're not having fun, we're not doing it right.
+
+*This guide is living. I welcome your feedback on how it can be improved.*
